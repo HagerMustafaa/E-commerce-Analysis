@@ -5,7 +5,8 @@
 ## Project Overview
 This project uses unsupervised machine learning to segment customers based on transactional behavior and demographics from an e-commerce dataset. The goal is to identify customer groups and recommend coupon strategies to enhance loyalty and satisfaction.
 
-##DAShboard
+## DAShboard
+
 ![dashboard](https://github.com/HagerMustafaa/E-commerce-Analysis/blob/main/Screenshot%202025-03-08%20210104.png?raw=true)
 
 ## Objectives
