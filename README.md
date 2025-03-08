@@ -5,6 +5,9 @@
 ## Project Overview
 This project uses unsupervised machine learning to segment customers based on transactional behavior and demographics from an e-commerce dataset. The goal is to identify customer groups and recommend coupon strategies to enhance loyalty and satisfaction.
 
+##DAShboard
+
+
 ## Objectives
 1. Merge and preprocess multi-sheet e-commerce data.
 2. Develop and optimize a K-Means clustering model for segmentation.
